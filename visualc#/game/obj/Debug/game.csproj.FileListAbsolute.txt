@@ -1,0 +1,136 @@
+E:\Program\game\game\bin\Debug\game.exe.config
+E:\Program\game\game\bin\Debug\game.exe
+E:\Program\game\game\bin\Debug\game.pdb
+E:\Program\game\game\obj\Debug\game.csprojAssemblyReference.cache
+E:\Program\game\game\obj\Debug\game.Form1.resources
+E:\Program\game\game\obj\Debug\game.Form2.resources
+E:\Program\game\game\obj\Debug\game.Properties.Resources.resources
+E:\Program\game\game\obj\Debug\game.csproj.GenerateResource.cache
+E:\Program\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+E:\Program\game\game\obj\Debug\game.exe
+E:\Program\game\game\obj\Debug\game.pdb
+C:\Users\USER\Desktop\0511049\Program\game\game\bin\Debug\game.exe.config
+C:\Users\USER\Desktop\0511049\Program\game\game\bin\Debug\game.exe
+C:\Users\USER\Desktop\0511049\Program\game\game\bin\Debug\game.pdb
+C:\Users\USER\Desktop\0511049\Program\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\0511049\Program\game\game\obj\Debug\game.Form1.resources
+C:\Users\USER\Desktop\0511049\Program\game\game\obj\Debug\game.Form2.resources
+C:\Users\USER\Desktop\0511049\Program\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\USER\Desktop\0511049\Program\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\0511049\Program\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\0511049\Program\game\game\obj\Debug\game.exe
+C:\Users\USER\Desktop\0511049\Program\game\game\obj\Debug\game.pdb
+F:\Program\game\game\bin\Debug\game.exe.config
+F:\Program\game\game\bin\Debug\game.exe
+F:\Program\game\game\bin\Debug\game.pdb
+F:\Program\game\game\obj\Debug\game.csprojAssemblyReference.cache
+F:\Program\game\game\obj\Debug\game.Form1.resources
+F:\Program\game\game\obj\Debug\game.Form2.resources
+F:\Program\game\game\obj\Debug\game.Properties.Resources.resources
+F:\Program\game\game\obj\Debug\game.csproj.GenerateResource.cache
+F:\Program\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+F:\Program\game\game\obj\Debug\game.exe
+F:\Program\game\game\obj\Debug\game.pdb
+C:\Users\USER\Desktop\Program\game\game\bin\Debug\game.exe.config
+C:\Users\USER\Desktop\Program\game\game\bin\Debug\game.exe
+C:\Users\USER\Desktop\Program\game\game\bin\Debug\game.pdb
+C:\Users\USER\Desktop\Program\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Program\game\game\obj\Debug\game.Form1.resources
+C:\Users\USER\Desktop\Program\game\game\obj\Debug\game.Form2.resources
+C:\Users\USER\Desktop\Program\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\USER\Desktop\Program\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Program\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Program\game\game\obj\Debug\game.exe
+C:\Users\USER\Desktop\Program\game\game\obj\Debug\game.pdb
+C:\Users\USER\Desktop\0511049\game\game\bin\Debug\game.exe.config
+C:\Users\USER\Desktop\0511049\game\game\bin\Debug\game.exe
+C:\Users\USER\Desktop\0511049\game\game\bin\Debug\game.pdb
+C:\Users\USER\Desktop\0511049\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\0511049\game\game\obj\Debug\game.Form1.resources
+C:\Users\USER\Desktop\0511049\game\game\obj\Debug\game.Form2.resources
+C:\Users\USER\Desktop\0511049\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\USER\Desktop\0511049\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\0511049\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\0511049\game\game\obj\Debug\game.exe
+C:\Users\USER\Desktop\0511049\game\game\obj\Debug\game.pdb
+F:\0511049_revise\game\game\bin\Debug\game.exe.config
+F:\0511049_revise\game\game\bin\Debug\game.exe
+F:\0511049_revise\game\game\bin\Debug\game.pdb
+F:\0511049_revise\game\game\obj\Debug\game.csprojAssemblyReference.cache
+F:\0511049_revise\game\game\obj\Debug\game.Form1.resources
+F:\0511049_revise\game\game\obj\Debug\game.Form2.resources
+F:\0511049_revise\game\game\obj\Debug\game.Properties.Resources.resources
+F:\0511049_revise\game\game\obj\Debug\game.csproj.GenerateResource.cache
+F:\0511049_revise\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+F:\0511049_revise\game\game\obj\Debug\game.exe
+F:\0511049_revise\game\game\obj\Debug\game.pdb
+C:\Users\acer\Desktop\0511049_revise\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\0511049_revise\game\game\obj\Debug\game.Form1.resources
+C:\Users\acer\Desktop\0511049_revise\game\game\obj\Debug\game.Form2.resources
+C:\Users\acer\Desktop\0511049_revise\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\acer\Desktop\0511049_revise\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\0511049_revise\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\0511049_revise\game\game\obj\Debug\game.exe
+C:\Users\acer\Desktop\0511049_revise\game\game\obj\Debug\game.pdb
+C:\Users\acer\Desktop\0511049_revise\game\game\bin\Debug\game.exe.config
+C:\Users\acer\Desktop\0511049_revise\game\game\bin\Debug\game.exe
+C:\Users\acer\Desktop\0511049_revise\game\game\bin\Debug\game.pdb
+C:\Users\acer\Desktop\0511049\game\game\bin\Debug\game.exe.config
+C:\Users\acer\Desktop\0511049\game\game\bin\Debug\game.exe
+C:\Users\acer\Desktop\0511049\game\game\bin\Debug\game.pdb
+C:\Users\acer\Desktop\0511049\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\0511049\game\game\obj\Debug\game.Form1.resources
+C:\Users\acer\Desktop\0511049\game\game\obj\Debug\game.Form2.resources
+C:\Users\acer\Desktop\0511049\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\acer\Desktop\0511049\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\0511049\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\0511049\game\game\obj\Debug\game.exe
+C:\Users\acer\Desktop\0511049\game\game\obj\Debug\game.pdb
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\bin\Debug\game.exe.config
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\bin\Debug\game.exe
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\bin\Debug\game.pdb
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\obj\Debug\game.Form1.resources
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\obj\Debug\game.Form2.resources
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\obj\Debug\game.Properties.Resources.resources
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\obj\Debug\game.exe
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\obj\Debug\game.pdb
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\obj\Debug\game.csprojAssemblyReference.cache
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game\game\obj\Debug\game.Form3.resources
+C:\Users\acer\Desktop\game\game\bin\Debug\game.exe.config
+C:\Users\acer\Desktop\game\game\bin\Debug\game.exe
+C:\Users\acer\Desktop\game\game\bin\Debug\game.pdb
+C:\Users\acer\Desktop\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\game\game\obj\Debug\game.Form1.resources
+C:\Users\acer\Desktop\game\game\obj\Debug\game.Form2.resources
+C:\Users\acer\Desktop\game\game\obj\Debug\game.Form3.resources
+C:\Users\acer\Desktop\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\acer\Desktop\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\game\game\obj\Debug\game.exe
+C:\Users\acer\Desktop\game\game\obj\Debug\game.pdb
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\bin\Debug\game.exe.config
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\bin\Debug\game.exe
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\bin\Debug\game.pdb
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\obj\Debug\game.csprojAssemblyReference.cache
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\obj\Debug\game.Form1.resources
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\obj\Debug\game.Form2.resources
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\obj\Debug\game.Form3.resources
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\obj\Debug\game.Properties.Resources.resources
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\obj\Debug\game.exe
+D:\01交大課程\大三\大三下\物件導向與程式設計\Final Project\Program\game1\game\obj\Debug\game.pdb
+C:\Users\acer\Desktop\game1\game\bin\Debug\game.exe.config
+C:\Users\acer\Desktop\game1\game\bin\Debug\game.exe
+C:\Users\acer\Desktop\game1\game\bin\Debug\game.pdb
+C:\Users\acer\Desktop\game1\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\game1\game\obj\Debug\game.Form1.resources
+C:\Users\acer\Desktop\game1\game\obj\Debug\game.Form2.resources
+C:\Users\acer\Desktop\game1\game\obj\Debug\game.Form3.resources
+C:\Users\acer\Desktop\game1\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\acer\Desktop\game1\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\game1\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\game1\game\obj\Debug\game.exe
+C:\Users\acer\Desktop\game1\game\obj\Debug\game.pdb
